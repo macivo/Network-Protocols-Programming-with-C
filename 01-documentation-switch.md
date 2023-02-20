@@ -131,7 +131,7 @@ the frame will be sent via broadcast/multicast.
 
 **UML-State diagram switch**
 
-![Diamond Diagram](./docu-images/state_diagram_switch.png)
+![Algo](./docu-images/state_diagram_frag_algorithm2.png)
 <div style="page-break-after: always"></div>
 
 <div id="heading--3">
